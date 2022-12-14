@@ -1,4 +1,4 @@
-#include m"ain.h"
+#include "main.h"
 #include <unistd.h>
 /**
  * _putcher - write the character c to stdout
